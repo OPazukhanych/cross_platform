@@ -1,0 +1,11 @@
+E:\навчання\4_курс_2_семестр\крос-платформне\project\ClassLibraryProjects\StringLibrary\bin\Release\net8.0\StringLibrary.deps.json
+E:\навчання\4_курс_2_семестр\крос-платформне\project\ClassLibraryProjects\StringLibrary\bin\Release\net8.0\StringLibrary.dll
+E:\навчання\4_курс_2_семестр\крос-платформне\project\ClassLibraryProjects\StringLibrary\bin\Release\net8.0\StringLibrary.pdb
+E:\навчання\4_курс_2_семестр\крос-платформне\project\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\навчання\4_курс_2_семестр\крос-платформне\project\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.AssemblyInfoInputs.cache
+E:\навчання\4_курс_2_семестр\крос-платформне\project\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.AssemblyInfo.cs
+E:\навчання\4_курс_2_семестр\крос-платформне\project\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+E:\навчання\4_курс_2_семестр\крос-платформне\project\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.dll
+E:\навчання\4_курс_2_семестр\крос-платформне\project\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\refint\StringLibrary.dll
+E:\навчання\4_курс_2_семестр\крос-платформне\project\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.pdb
+E:\навчання\4_курс_2_семестр\крос-платформне\project\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\ref\StringLibrary.dll

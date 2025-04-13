@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Документи\СН-42\8\Крос плат\Lab1\PlaneLibraryProjects\PlaneLibrary\bin\Debug\net9.0\PlaneLibrary.deps.json
+C:\Users\User\OneDrive\Документи\СН-42\8\Крос плат\Lab1\PlaneLibraryProjects\PlaneLibrary\bin\Debug\net9.0\PlaneLibrary.dll
+C:\Users\User\OneDrive\Документи\СН-42\8\Крос плат\Lab1\PlaneLibraryProjects\PlaneLibrary\bin\Debug\net9.0\PlaneLibrary.pdb
+C:\Users\User\OneDrive\Документи\СН-42\8\Крос плат\Lab1\PlaneLibraryProjects\PlaneLibrary\obj\Debug\net9.0\PlaneLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документи\СН-42\8\Крос плат\Lab1\PlaneLibraryProjects\PlaneLibrary\obj\Debug\net9.0\PlaneLibrary.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документи\СН-42\8\Крос плат\Lab1\PlaneLibraryProjects\PlaneLibrary\obj\Debug\net9.0\PlaneLibrary.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документи\СН-42\8\Крос плат\Lab1\PlaneLibraryProjects\PlaneLibrary\obj\Debug\net9.0\PlaneLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документи\СН-42\8\Крос плат\Lab1\PlaneLibraryProjects\PlaneLibrary\obj\Debug\net9.0\PlaneLibrary.dll
+C:\Users\User\OneDrive\Документи\СН-42\8\Крос плат\Lab1\PlaneLibraryProjects\PlaneLibrary\obj\Debug\net9.0\refint\PlaneLibrary.dll
+C:\Users\User\OneDrive\Документи\СН-42\8\Крос плат\Lab1\PlaneLibraryProjects\PlaneLibrary\obj\Debug\net9.0\PlaneLibrary.pdb
+C:\Users\User\OneDrive\Документи\СН-42\8\Крос плат\Lab1\PlaneLibraryProjects\PlaneLibrary\obj\Debug\net9.0\ref\PlaneLibrary.dll

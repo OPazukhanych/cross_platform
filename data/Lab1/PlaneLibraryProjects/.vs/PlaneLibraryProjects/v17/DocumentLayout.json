@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0421\u041D-42\\8\\\u041A\u0440\u043E\u0441 \u043F\u043B\u0430\u0442\\Lab1\\PlaneLibraryProjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFDE88C-82AA-42F4-BBDA-FD41E283D652}|PlainTest\\PlainTest.csproj|c:\\users\\user\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0441\u043D-42\\8\\\u043A\u0440\u043E\u0441 \u043F\u043B\u0430\u0442\\lab1\\planelibraryprojects\\plaintest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFDE88C-82AA-42F4-BBDA-FD41E283D652}|PlainTest\\PlainTest.csproj|solutionrelative:plaintest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD014FF-C357-4E95-8DE8-4B701571641A}|PlaneLibrary\\PlaneLibrary.csproj|c:\\users\\user\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0441\u043D-42\\8\\\u043A\u0440\u043E\u0441 \u043F\u043B\u0430\u0442\\lab1\\planelibraryprojects\\planelibrary\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD014FF-C357-4E95-8DE8-4B701571641A}|PlaneLibrary\\PlaneLibrary.csproj|solutionrelative:planelibrary\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FD5A04-D556-4852-B654-B9E6C3EB1EFD}|ShoweCase\\ShoweCase.csproj|c:\\users\\user\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0441\u043D-42\\8\\\u043A\u0440\u043E\u0441 \u043F\u043B\u0430\u0442\\lab1\\planelibraryprojects\\showecase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FD5A04-D556-4852-B654-B9E6C3EB1EFD}|ShoweCase\\ShoweCase.csproj|solutionrelative:showecase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFDE88C-82AA-42F4-BBDA-FD41E283D652}|PlainTest\\PlainTest.csproj|c:\\users\\user\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0441\u043D-42\\8\\\u043A\u0440\u043E\u0441 \u043F\u043B\u0430\u0442\\lab1\\planelibraryprojects\\plaintest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFDE88C-82AA-42F4-BBDA-FD41E283D652}|PlainTest\\PlainTest.csproj|solutionrelative:plaintest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0421\u041D-42\\8\\\u041A\u0440\u043E\u0441 \u043F\u043B\u0430\u0442\\Lab1\\PlaneLibraryProjects\\ShoweCase\\Program.cs",
+              "RelativeDocumentMoniker": "ShoweCase\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0421\u041D-42\\8\\\u041A\u0440\u043E\u0441 \u043F\u043B\u0430\u0442\\Lab1\\PlaneLibraryProjects\\ShoweCase\\Program.cs",
+              "RelativeToolTip": "ShoweCase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:07:49.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0421\u041D-42\\8\\\u041A\u0440\u043E\u0441 \u043F\u043B\u0430\u0442\\Lab1\\PlaneLibraryProjects\\PlainTest\\Test1.cs",
+              "RelativeDocumentMoniker": "PlainTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0421\u041D-42\\8\\\u041A\u0440\u043E\u0441 \u043F\u043B\u0430\u0442\\Lab1\\PlaneLibraryProjects\\PlainTest\\Test1.cs",
+              "RelativeToolTip": "PlainTest\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:03:38.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0421\u041D-42\\8\\\u041A\u0440\u043E\u0441 \u043F\u043B\u0430\u0442\\Lab1\\PlaneLibraryProjects\\PlainTest\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "PlainTest\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0421\u041D-42\\8\\\u041A\u0440\u043E\u0441 \u043F\u043B\u0430\u0442\\Lab1\\PlaneLibraryProjects\\PlainTest\\MSTestSettings.cs",
+              "RelativeToolTip": "PlainTest\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:02:27.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0421\u041D-42\\8\\\u041A\u0440\u043E\u0441 \u043F\u043B\u0430\u0442\\Lab1\\PlaneLibraryProjects\\PlaneLibrary\\Airplane.cs",
+              "RelativeDocumentMoniker": "PlaneLibrary\\Airplane.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\\u0421\u041D-42\\8\\\u041A\u0440\u043E\u0441 \u043F\u043B\u0430\u0442\\Lab1\\PlaneLibraryProjects\\PlaneLibrary\\Airplane.cs",
+              "RelativeToolTip": "PlaneLibrary\\Airplane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:56:30.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\4_\u043A\u0443\u0440\u0441_2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435\\project\\ClassLibraryProjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D28CE8-18C5-403D-858C-374FCDF8CAAD}|StringLibraryTest\\StringLibraryTest.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\4_\u043A\u0443\u0440\u0441_2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435\\project\\classlibraryprojects\\stringlibrarytest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D28CE8-18C5-403D-858C-374FCDF8CAAD}|StringLibraryTest\\StringLibraryTest.csproj|solutionrelative:stringlibrarytest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1C50B2-B6A3-4211-8611-17CDD40E4BD4}|ShowCase\\ShowCase.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\4_\u043A\u0443\u0440\u0441_2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435\\project\\classlibraryprojects\\showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1C50B2-B6A3-4211-8611-17CDD40E4BD4}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0E13A0-4CD4-4EE0-952E-AAB6D18E9773}|StringLibrary\\StringLibrary.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\4_\u043A\u0443\u0440\u0441_2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435\\project\\classlibraryprojects\\stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0E13A0-4CD4-4EE0-952E-AAB6D18E9773}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "E:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\4_\u043A\u0443\u0440\u0441_2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435\\project\\ClassLibraryProjects\\StringLibraryTest\\Test1.cs",
+              "RelativeDocumentMoniker": "StringLibraryTest\\Test1.cs",
+              "ToolTip": "E:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\4_\u043A\u0443\u0440\u0441_2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435\\project\\ClassLibraryProjects\\StringLibraryTest\\Test1.cs",
+              "RelativeToolTip": "StringLibraryTest\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:45:34.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\4_\u043A\u0443\u0440\u0441_2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435\\project\\ClassLibraryProjects\\ShowCase\\Program.cs",
+              "RelativeDocumentMoniker": "ShowCase\\Program.cs",
+              "ToolTip": "E:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\4_\u043A\u0443\u0440\u0441_2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435\\project\\ClassLibraryProjects\\ShowCase\\Program.cs",
+              "RelativeToolTip": "ShowCase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:54:40.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\4_\u043A\u0443\u0440\u0441_2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435\\project\\ClassLibraryProjects\\StringLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "StringLibrary\\Class1.cs",
+              "ToolTip": "E:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\4_\u043A\u0443\u0440\u0441_2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435\\project\\ClassLibraryProjects\\StringLibrary\\Class1.cs",
+              "RelativeToolTip": "StringLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:47:11.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
