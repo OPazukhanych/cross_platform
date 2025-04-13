@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "Kec5r0uFPrO2Q47NZgi4SM+K3OhAU+VRr0z0UoKfU3k=",
+  "Source": "TodoAPI",
+  "BasePath": "_content/TodoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TodoAPI\\wwwroot",
+      "Source": "TodoAPI",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Документи\\СН-42\\8\\Крос плат\\data\\Lab2\\wwwroot\\",
+      "BasePath": "_content/TodoAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Документи\\СН-42\\8\\Крос плат\\data\\Lab2\\wwwroot\\css\\site.css",
+      "SourceId": "TodoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Документи\\СН-42\\8\\Крос плат\\data\\Lab2\\wwwroot\\",
+      "BasePath": "_content/TodoAPI",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zdbzlw4n47",
+      "Integrity": "Z9nrer1ofI5NlX/NlYTZKWOkelreLXqgMDWfnE9OrDQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Документи\\СН-42\\8\\Крос плат\\data\\Lab2\\wwwroot\\index.html",
+      "SourceId": "TodoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Документи\\СН-42\\8\\Крос плат\\data\\Lab2\\wwwroot\\",
+      "BasePath": "_content/TodoAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tqywd9l2os",
+      "Integrity": "5TjlUJBBmBJ8cg2vA97ilfQDMqZHvnk+HN2B5yyjQvo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Документи\\СН-42\\8\\Крос плат\\data\\Lab2\\wwwroot\\js\\site.js",
+      "SourceId": "TodoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Документи\\СН-42\\8\\Крос плат\\data\\Lab2\\wwwroot\\",
+      "BasePath": "_content/TodoAPI",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "twdhmupfz5",
+      "Integrity": "U0G7jPqyU0rK9Yap51g2laTrKyrBNPFmRn7Z38fmkvI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Документи\\СН-42\\8\\Крос плат\\data\\Lab2\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z9nrer1ofI5NlX/NlYTZKWOkelreLXqgMDWfnE9OrDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 16:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9nrer1ofI5NlX/NlYTZKWOkelreLXqgMDWfnE9OrDQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.zdbzlw4n47.css",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Документи\\СН-42\\8\\Крос плат\\data\\Lab2\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z9nrer1ofI5NlX/NlYTZKWOkelreLXqgMDWfnE9OrDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 16:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zdbzlw4n47"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9nrer1ofI5NlX/NlYTZKWOkelreLXqgMDWfnE9OrDQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Документи\\СН-42\\8\\Крос плат\\data\\Lab2\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5TjlUJBBmBJ8cg2vA97ilfQDMqZHvnk+HN2B5yyjQvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 16:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5TjlUJBBmBJ8cg2vA97ilfQDMqZHvnk+HN2B5yyjQvo="
+        }
+      ]
+    },
+    {
+      "Route": "index.tqywd9l2os.html",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Документи\\СН-42\\8\\Крос плат\\data\\Lab2\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5TjlUJBBmBJ8cg2vA97ilfQDMqZHvnk+HN2B5yyjQvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 16:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tqywd9l2os"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5TjlUJBBmBJ8cg2vA97ilfQDMqZHvnk+HN2B5yyjQvo="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Документи\\СН-42\\8\\Крос плат\\data\\Lab2\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U0G7jPqyU0rK9Yap51g2laTrKyrBNPFmRn7Z38fmkvI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 16:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U0G7jPqyU0rK9Yap51g2laTrKyrBNPFmRn7Z38fmkvI="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.twdhmupfz5.js",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Документи\\СН-42\\8\\Крос плат\\data\\Lab2\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U0G7jPqyU0rK9Yap51g2laTrKyrBNPFmRn7Z38fmkvI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 16:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "twdhmupfz5"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U0G7jPqyU0rK9Yap51g2laTrKyrBNPFmRn7Z38fmkvI="
+        }
+      ]
+    }
+  ]
+}
